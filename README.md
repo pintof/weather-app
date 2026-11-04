@@ -1,4 +1,6 @@
 # Weather App
+<img width="1830" height="980" alt="image" src="https://github.com/user-attachments/assets/a32a9fa7-a1d2-48a2-9c05-3d25f78c6943" />
+
 
 ## Run locally
 
